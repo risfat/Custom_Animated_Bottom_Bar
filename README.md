@@ -13,4 +13,4 @@ A custom animated bottom navigation bar widget for Flutter that provides a beaut
 
 ## Demo
 
-<img src="screenshot/nav_demo.gif" alt="Demo" width="600">
+<img src="screenshot/nav_demo.gif" alt="Demo" width="450">
